@@ -1,0 +1,6 @@
+{
+  "name": "LandCheck AI",
+  "description": "AI-Property Legal Verification, Survey Search & Litigation Risk Assessment System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
